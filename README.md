@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/header.svg" width="100%" alt="Who Gets the Shade? Working paper on NYC tree-planting rules. Map of 42 neighborhoods colored by heat ER visit rate; live, real data."></p>
+
 # Who Gets the Shade? Ranking New York Neighborhoods for Tree Planting
 
 > 🌐 [Interactive map](https://johanarisato.github.io/geoai-for-cities/explore/shade.html) · [Full write-up on GeoAI for Cities](https://johanarisato.github.io/geoai-for-cities/) · [Portfolio](https://johanarisato.github.io/Johan.github.io/)
