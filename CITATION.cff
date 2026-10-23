@@ -6,8 +6,7 @@ version: "1.0.0"
 authors:
   - family-names: "Fernandez"
     given-names: "Jhoven"
-    # Add your ORCID iD once you have one, e.g.:
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0009-0000-1526-4744"
 abstract: >-
   Working paper and reproducible code. Using public data for New York City's
   42 UHF neighborhoods, the study tests whether the rule a city uses to rank
