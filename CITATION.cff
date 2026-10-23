@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "Who Gets the Shade? Ranking New York Neighborhoods for Tree Planting"
+version: "1.0.0"
+authors:
+  - family-names: "Fernandez"
+    given-names: "Jhoven"
+    # Add your ORCID iD once you have one, e.g.:
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >-
+  Working paper and reproducible code. Using public data for New York City's
+  42 UHF neighborhoods, the study tests whether the rule a city uses to rank
+  neighborhoods for tree planting changes who benefits, and whether a
+  heat-illness model transfers across boroughs. Methods include Moran's I and
+  LISA, spatial lag and error models, leave-one-borough-out cross-validation
+  and 5,000 random ranking weightings. Not yet peer reviewed.
+repository-code: "https://github.com/JohanArisato/who-gets-the-shade"
+url: "https://johanarisato.github.io/geoai-for-cities/explore/shade.html"
+license: MIT
+keywords:
+  - urban heat
+  - tree canopy
+  - environmental justice
+  - spatial analysis
+  - New York City
