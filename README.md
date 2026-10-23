@@ -2,7 +2,7 @@
 
 # Who Gets the Shade? Ranking New York Neighborhoods for Tree Planting
 
-> 🌐 [Interactive map](https://johanarisato.github.io/geoai-for-cities/explore/shade.html) · [Full write-up on GeoAI for Cities](https://johanarisato.github.io/geoai-for-cities/) · [Portfolio](https://johanarisato.github.io/Johan.github.io/)
+> 🌐 [Interactive map](https://jhovenf98.github.io/geoai-for-cities/explore/shade.html) · [Full write-up on GeoAI for Cities](https://jhovenf98.github.io/geoai-for-cities/) · [Portfolio](https://jhovenf98.github.io/Johan.github.io/)
 
 **Johan Fernandez** · Working paper, 2026 · Not yet peer reviewed
 
@@ -58,7 +58,7 @@ python code/03_figures.py         # -> figures/
 pytest -q
 ```
 
-The cleaned table is also a layer (`nyc_uhf42_shade`) in the shared [geoai-cities-db](https://github.com/JohanArisato/geoai-cities-db) spatial database, so other projects can query it with SQL.
+The cleaned table is also a layer (`nyc_uhf42_shade`) in the shared [geoai-cities-db](https://github.com/jhovenf98/geoai-cities-db) spatial database, so other projects can query it with SQL.
 
 ## Limitations
 
@@ -70,4 +70,4 @@ The analysis code was written and run with an AI assistant (Claude, Anthropic) u
 
 ## Part of
 
-[GeoAI for Cities](https://github.com/JohanArisato/geoai-for-cities), a research series on who gets what when cities use spatial technology to decide.
+[GeoAI for Cities](https://github.com/jhovenf98/geoai-for-cities), a research series on who gets what when cities use spatial technology to decide.
